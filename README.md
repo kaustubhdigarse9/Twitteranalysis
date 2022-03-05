@@ -1,2 +1,2 @@
-# Twitteranalysis
-anaylsis of tweets 
+# Twitter analysis
+anaylsis of tweets using jupyter notebook
